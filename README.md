@@ -85,3 +85,5 @@ Reporting issues/requesting features
 Please leave bug reports/pull requests in the Github tracker.
 
 For anything else, we can be found lurking in #idroid-dev on irc.freenode.net
+
+(Thanks for making a super cool project, iDroid Team!)
